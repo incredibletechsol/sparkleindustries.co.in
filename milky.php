@@ -57,7 +57,19 @@
                 </ul>
 
                 </p>
-                 <img src="assets/img/portfolio/portfolio-4.jpg" alt="" class="img-fluid">
+                   <section id="portfolio" class="portfolio">
+				  <div class="container">
+					<div class="row portfolio-container" data-aos="fade-up">
+					<div class="col-lg-4 col-md-6 portfolio-item filter-web">
+						<img src="assets/img/floorcleaners/3.jpeg" class="img-fluid imgcls" alt="">
+						<div class="portfolio-info">
+						  <h4>Milky Floor Cleaner</h4>
+						  <a href="assets/img/floorcleaners/3.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="Milky Floor Cleaner"><i class="bx bx-plus"></i></a>
+						</div>
+					  </div>
+					</div>
+				  </div>
+				</section>
               </div>
 
             </article><!-- End blog entry -->

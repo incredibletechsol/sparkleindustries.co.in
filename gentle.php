@@ -46,7 +46,7 @@
 
               <div class="entry-content">
                 <p align="justify">
-              We are Manufacturer, Supplier, Exporter of Hand Wash, Refill, Liquid Hand Wash, Rose Hand Wash, Green Apple Hand Wash, Sandal Hand Wash, Cleaning Products, Housekeeping Products. Our setup is situated in Pune, Maharashtra, India. We also provide Distributorship / Dealership for our clients.
+				We are Manufacturer, Supplier, Exporter of Hand Wash, Refill, Liquid Hand Wash, Rose Hand Wash, Green Apple Hand Wash, Sandal Hand Wash, Cleaning Products, Housekeeping Products. Our setup is situated in Pune, Maharashtra, India. We also provide Distributorship / Dealership for our clients.
                 <h4>Available In</h4>
                 <ul>
                   <li> Green Apple</li>
@@ -54,7 +54,20 @@
                 </ul>
 
                 </p>
-                 <img src="assets/img/portfolio/portfolio-12.jpg" alt="" class="img-fluid">
+                
+				 <section id="portfolio" class="portfolio">
+				  <div class="container">
+					<div class="row portfolio-container" data-aos="fade-up">
+					<div class="col-lg-4 col-md-6 portfolio-item filter-web">
+						<img src="assets/img/portfolio/portfolio-12.jpg" class="img-fluid imgcls" alt="">
+						<div class="portfolio-info">
+						  <h4>Gentle Liquid Cleaners</h4>
+						  <a href="assets/img/portfolio/portfolio-12.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="Green Apple"><i class="bx bx-plus"></i></a>
+						</div>
+					  </div>
+					</div>
+				  </div>
+				</section>
               </div>
 
             </article><!-- End blog entry -->

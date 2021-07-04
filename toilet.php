@@ -57,7 +57,28 @@
                 </ul>
 
                 </p>
-                 <img src="assets/img/portfolio/portfolio-2.jpg" alt="" class="img-fluid">
+                 <section id="portfolio" class="portfolio">
+				  <div class="container">
+					<div class="row portfolio-container" data-aos="fade-up">
+					  <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+						<img src="assets/img/ToiletCleaner/1.jpeg" class="img-fluid imgcls" alt="">
+						<div class="portfolio-info">
+						  <h4>Toilet Cleaner</h4>
+						  <a href="assets/img/ToiletCleaner/1.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="Toilet Cleaner"><i class="bx bx-plus"></i></a>
+						</div>
+					  </div>
+
+					  <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+						<img src="assets/img/ToiletCleaner/2.jpeg" class="img-fluid imgcls" alt="">
+						<div class="portfolio-info">
+						  <h4>Toilet Cleaner</h4>
+						  <a href="assets/img/ToiletCleaner/2.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="Toilet Cleaner"><i class="bx bx-plus"></i></a>
+						  
+						</div>
+					  </div>
+					</div>
+				  </div>
+				</section>
               </div>
 
             </article><!-- End blog entry -->
