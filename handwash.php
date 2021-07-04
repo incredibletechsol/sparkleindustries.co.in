@@ -58,53 +58,53 @@
 				  <div class="container">
 					<div class="row portfolio-container" data-aos="fade-up">
 					  <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-						<img src="assets/img/HandWash/1.jpeg" class="img-fluid imgcls" alt="">
+						<img src="assets/img/Handwash/1.jpeg" class="img-fluid imgcls" alt="">
 						<div class="portfolio-info">
 						  <h4>Hand Wash Rose</h4>
-						  <a href="assets/img/HandWash/1.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="HandWash Rose"><i class="bx bx-plus"></i></a>
+						  <a href="assets/img/Handwash/1.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="Handwash Rose"><i class="bx bx-plus"></i></a>
 						</div>
 					  </div>
 
 					  <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-						<img src="assets/img/HandWash/2.jpeg" class="img-fluid imgcls" alt="">
+						<img src="assets/img/Handwash/2.jpeg" class="img-fluid imgcls" alt="">
 						<div class="portfolio-info">
 						  <h4>Hand Wash Rose</h4>
-						  <a href="assets/img/HandWash/2.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="HandWash Rose"><i class="bx bx-plus"></i></a>
+						  <a href="assets/img/Handwash/2.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="Handwash Rose"><i class="bx bx-plus"></i></a>
 						  
 						</div>
 					  </div>
 					  
 					   <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-						<img src="assets/img/HandWash/3.jpeg" class="img-fluid imgcls" alt="">
+						<img src="assets/img/Handwash/3.jpeg" class="img-fluid imgcls" alt="">
 						<div class="portfolio-info">
 						  <h4>Hand Wash Rose</h4>
-						  <a href="assets/img/HandWash/3.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="HandWash Rose"><i class="bx bx-plus"></i></a>
+						  <a href="assets/img/Handwash/3.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="Handwash Rose"><i class="bx bx-plus"></i></a>
 						  
 						</div>
 					  </div>
 					  
 					  <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-						<img src="assets/img/HandWash/4.jpeg" class="img-fluid imgcls" alt="">
+						<img src="assets/img/Handwash/4.jpeg" class="img-fluid imgcls" alt="">
 						<div class="portfolio-info">
 						  <h4>Hand Wash GreenApple</h4>
-						  <a href="assets/img/HandWash/4.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="HandWash GreenApple"><i class="bx bx-plus"></i></a>
+						  <a href="assets/img/Handwash/4.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="Handwash GreenApple"><i class="bx bx-plus"></i></a>
 						</div>
 					  </div>
 
 					  <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-						<img src="assets/img/HandWash/5.jpeg" class="img-fluid imgcls" alt="">
+						<img src="assets/img/Handwash/5.jpeg" class="img-fluid imgcls" alt="">
 						<div class="portfolio-info">
 						  <h4>Hand Wash GreenApple</h4>
-						  <a href="assets/img/HandWash/5.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="HandWash GreenApple"><i class="bx bx-plus"></i></a>
+						  <a href="assets/img/Handwash/5.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="Handwash GreenApple"><i class="bx bx-plus"></i></a>
 						  
 						</div>
 					  </div>
 					  
 					   <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-						<img src="assets/img/HandWash/6.jpeg" class="img-fluid imgcls" alt="">
+						<img src="assets/img/Handwash/6.jpeg" class="img-fluid imgcls" alt="">
 						<div class="portfolio-info">
 						  <h4>Hand Wash GreenApple</h4>
-						  <a href="assets/img/HandWash/6.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="HandWash GreenApple"><i class="bx bx-plus"></i></a>
+						  <a href="assets/img/Handwash/6.jpeg" data-gall="portfolioGallery" class="venobox preview-link" title="Handwash GreenApple"><i class="bx bx-plus"></i></a>
 						  
 						</div>
 					  </div>
