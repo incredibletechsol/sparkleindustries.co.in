@@ -22,11 +22,11 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Gentle Liquid Cleaners</h2>
+          <h2>Hand Wash</h2>
           <ol>
             <li><a href="index.php">Home</a></li>
             <li>Products</li>
-            <li>Gentle Liquid Cleaners</li>
+            <li>Hand Wash</li>
           </ol>
         </div>
 
