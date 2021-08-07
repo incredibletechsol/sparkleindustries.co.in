@@ -4,16 +4,20 @@
       <div class="carousel-inner" role="listbox">
 
         <!-- Slide 1 -->
-        <div class="carousel-item active" style="background-image: url(assets/img/slide/1.jpeg);">
+        <div class="carousel-item active" style="background-image: url();">
           <div class="carousel-container">
-           
+           <img src="assets/img/slide/1.jpeg" alt="" class="d-none d-lg-block">
+           <img src="assets/img/slide/1-tab.jpeg" alt=""  class="d-none d-sm-block d-md-block d-lg-none">
+           <img src="assets/img/slide/1-mob.jpeg" alt="" class="d-block d-sm-none">
           </div>
         </div>
 
         <!-- Slide 2 -->
-        <div class="carousel-item" style="background-image: url(assets/img/slide/2.jpeg);">
+        <div class="carousel-item" style="background-image: url();">
           <div class="carousel-container">
-           
+           <img src="assets/img/slide/2.jpeg" alt="" class="d-none d-lg-block">
+           <img src="assets/img/slide/2-tab.jpeg" alt="" class="d-none d-sm-block d-md-block d-lg-none">
+           <img src="assets/img/slide/2-mob.jpeg" alt=""  class="d-block d-sm-none">
           </div>
         </div>
 
